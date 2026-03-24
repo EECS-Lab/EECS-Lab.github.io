@@ -1,5 +1,5 @@
 ---
-title: "Hello EECS World: 회로와 코드를 잇는 첫걸음"
+title: "Hello EECS World: 하드웨어와 소프트웨어를 잇는 첫걸음"
 date: 2026-03-24 22:00:00 +0900
 categories: [Intro, Personal]
 tags: [EE, CS, AI, Lab]
