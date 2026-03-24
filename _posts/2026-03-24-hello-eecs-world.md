@@ -1,6 +1,6 @@
 ---
 title: "Hello EECS World: 회로와 코드를 잇는 첫걸음"
-date: 2026-03-24 22:40:00 +0900
+date: 2026-03-24 22:00:00 +0900
 categories: [Intro, Personal]
 tags: [EE, CS, AI, Lab]
 ---
@@ -18,5 +18,7 @@ tags: [EE, CS, AI, Lab]
 * **융합 공학 (Fusion Engineering):** 하드웨어(EE)의 기초 위에 소프트웨어(CS) 설계, 마지막으로 AI 한 스푼을 얹어 무엇이든 만들어보는 프로젝트 기록입니다.
 * **학습 기록 (Study Records):** 전자전기공학과 컴퓨터공학을 공부하는 과정과 이를 통해 배운 내용들입니다.
 
+<br>
+<br>
 
 차근차근 이 공간을 채워나가며 **'엔지니어로'** 성장해보려 합니다.
