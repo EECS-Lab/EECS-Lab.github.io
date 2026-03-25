@@ -16,7 +16,7 @@ timezone:
 
 title: EECS-Lab # the main title
 
-tagline: 하드웨어와 소프트웨어를 잇는 <br> 공학자의 기록 # it will display as the subtitle
+tagline: 하드웨어와 소프트웨어를 잇는<br>공학자의기록입니다 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   전자전기공학과 컴퓨터공학을 공부하는 감자의 기록입니다
