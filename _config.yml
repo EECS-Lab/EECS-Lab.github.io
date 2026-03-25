@@ -119,12 +119,13 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
+  acitve: giscus
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
+    repo: 'EECS-Lab/EECS-Lab.github.io'
+    repo_id: "R_kgDORvbXCA"
+    category: 'Announcements'
+    category_id: "DIC_kwDORvbXCM4C5Nyk"
+    mapping: 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
