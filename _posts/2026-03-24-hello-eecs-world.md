@@ -1,7 +1,7 @@
 ---
 title: "Hello EECS World: 하드웨어와 소프트웨어를 잇는 첫걸음"
 date: 2026-03-24 22:00:00 +0900
-categories: [Intro, Personal]
+categories: [Personal]
 tags: [Personal]
 ---
 
